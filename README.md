@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Cloud Backup & Recovery System
 
 ## 📌 Overview
@@ -73,3 +74,6 @@ Cloud storage management with AWS S3
 Python scripting for automation
 
 Real-world IT support and cloud engineering skills
+=======
+# First-Project
+>>>>>>> d284f985260d7fed1efaf0cf5277ec8975c492aa
