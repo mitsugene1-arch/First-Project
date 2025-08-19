@@ -1,0 +1,10 @@
+# Ignore logs and temp files
+*.log
+*.txt
+
+# Python cache
+__pycache__/
+
+# Backup files
+backup_files/
+restored_TEST PROJECT.txt
